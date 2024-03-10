@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  HRProject
+
+  Created by faten aldosari on 02/03/2024.
+  
+*/
+
+"SendButtonTitle" = "Send";
+"NamePlaceholder" = "Enter your Full Name";
+"PhonePlaceholder" = "Enter your Phone Number";
+"EmailPlaceholder" = "Enter your Email";
+"SalaryPlaceholder" = "Enter your Salary";
+"IBANPlaceholder" = "Enter your IBAN";
+"ImagePlaceholder" = "Enter your profile image";

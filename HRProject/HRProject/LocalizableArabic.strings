@@ -1,0 +1,16 @@
+/* 
+  LocalizableArabic.strings
+  HRProject
+
+  Created by faten aldosari on 02/03/2024.
+  
+*/
+
+
+"SendButtonTitle" = "إرسال";
+"NamePlaceholder" = "أدخل اسمك الكامل";
+"PhonePlaceholder" = "أدخل رقم هاتفك";
+"EmailPlaceholder" = "أدخل بريدك الإلكتروني";
+"SalaryPlaceholder" = "أدخل راتبك";
+"IBANPlaceholder" = "أدخل رقم الآيبان الخاص بك";
+"ImagePlaceholder" = "أدخل صورة الملف الشخصي الخاصة بك";
